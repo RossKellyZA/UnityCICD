@@ -1,7 +1,7 @@
 # UnityCICD
 
 ## About The Project
-A boilerplate template project making use of GameCI to setup a build pipeline for Unity projects within Github actions. 
+A boilerplate project making use of GameCI to setup a build pipeline for Unity projects within Github actions. 
 
 ## Getting Started
 
