@@ -1,4 +1,4 @@
-name: Build project
+name: CI Multi Platform (Simple)
 
 on: [push, pull_request]
 

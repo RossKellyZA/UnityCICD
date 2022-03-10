@@ -1,4 +1,4 @@
-name: GameCI Template 🎮
+name: CI Template with WebGL deploy 🎮
 
 on: push
 
