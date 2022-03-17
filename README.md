@@ -9,7 +9,7 @@ A boilerplate project making use of GameCI to setup a build pipeline for Unity p
 | [Request activation file](https://github.com/marketplace/actions/unity-request-activation-file) | ✔ | [![Actions status](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/activation.yml/badge.svg)](https://github.com/game-ci/unity-request-activation-file) |
 | [WebGL](https://github.com/marketplace/actions/unity-builder) | ✔ | [![Actions Status](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml) |
 | [Windows Mono](https://github.com/marketplace/actions/unity-builder) | ✔ | [![Actions Status](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml) |
-| [Linux Mono](https://github.com/marketplace/actions/unity-builder) | ✔ | [![Actions Status](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml) |
+| [![pages-build-deployment](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/pages/pages-build-deployment)|
 
 ## Getting Started
 
