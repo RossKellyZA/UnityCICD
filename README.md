@@ -3,6 +3,13 @@
 ## About The Project
 A boilerplate project making use of GameCI to setup a build pipeline for Unity projects within Github actions. 
 
+## Project Status
+| Target Platform             | Done | Status |
+|-------------------------|------|--------|
+| [WebGL](https://github.com/marketplace/actions/unity-builder) | ✔ | [![Actions Status](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml) |
+| [Windows Mono](https://github.com/marketplace/actions/unity-builder) | ✔ | [![Actions Status](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml) |
+| [Linux Mono](https://github.com/marketplace/actions/unity-builder) | ✔ | [![Actions Status](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml/badge.svg?branch=main)](https://github.com/game-ci/unity-builder/actions/workflows/build-tests.yml) |
+
 ## Getting Started
 
 ### Actions
