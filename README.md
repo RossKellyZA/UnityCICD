@@ -9,7 +9,7 @@ A boilerplate project making use of GameCI to setup a build pipeline for Unity p
 | [Request activation file](https://github.com/marketplace/actions/unity-request-activation-file) | ✔ | [![Acquire activation file](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/activation.yml/badge.svg)](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/activation.yml) |
 | [Multi Platform Build](https://github.com/marketplace/actions/unity-builder) | ✔ | [![CI Multi Platform (Simple)](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/main.yml/badge.svg)](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/main.yml) |
 | [CI template with WebGL Deploy](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/mainWebDeploy.yml) | ✔ | [![CI Template with WebGL deploy 🎮](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/mainWebDeploy.yml/badge.svg)](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/mainWebDeploy.yml) |
-| [Pages Deploy](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/pages/pages-build-deployment) | ✔ | [![pages-build-deployment](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/pages/pages-build-deployment) |
+| [GitHub Pages Deploy](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/pages/pages-build-deployment) | ✔ | [![pages-build-deployment](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rosshaydenkelly/UnityCICD/actions/workflows/pages/pages-build-deployment) |
 
 
 ## Getting Started
